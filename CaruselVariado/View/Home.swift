@@ -1,10 +1,3 @@
-//
-//  Home.swift
-//  Home
-//
-//  Created by Balaji on 01/08/21.
-//
-
 import SwiftUI
 
 struct Home: View {

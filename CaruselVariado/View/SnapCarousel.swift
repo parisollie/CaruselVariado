@@ -1,10 +1,3 @@
-//
-//  SnapCarousel.swift
-//  SnapCarousel
-//
-//  Created by Balaji on 01/08/21.
-//
-
 import SwiftUI
 
 // To for Accepting Collections
